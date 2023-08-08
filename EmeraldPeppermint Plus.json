@@ -129,5 +129,11 @@
         "DANGER": "#1b2727",
         "RED_400": "#92B192"
     },
+    "plus":{
+        "version":"0",
+        "iconpack":"rosiecord-plumpy",
+        "icons":{
+            "ic_new_pins":["#e64553"]}
+     },
     "spec": 2
 }
