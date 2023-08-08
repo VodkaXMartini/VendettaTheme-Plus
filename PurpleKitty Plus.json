@@ -170,7 +170,13 @@
    "version":"0",
    "iconpack":"rosiecord-plumpy",
    "icons":{
-       "ic_new_pins":["#e64553"]}
+            "ic_new_pins":["#e64553"],
+            "StatusStreaming": ["#7e64fb"],
+          "StatusMobileOnline": ["#09bd63"],
+          "StatusIdle": ["#ffd401"],
+          "StatusDND": ["#ff611a"],
+          "StatusOffline": ["#015bd5"],
+          "StatusOnline": ["#09bd63"]}
 },
     "color": "#4d4463"
 }
