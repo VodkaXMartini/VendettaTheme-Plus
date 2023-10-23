@@ -137,6 +137,12 @@
         "CHANNEL_ICON": [
             "#D793B5",
             "#BFBFBF"
+        ],
+        "BG_BACKDROP": [
+            "#04010173"
+        ],
+        "CHAT_BACKGROUND": [
+            "#04010173"
         ]
     },
     "rawColors": {
