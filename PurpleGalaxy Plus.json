@@ -1,5 +1,5 @@
 {
-    "name": "PurpleGalaxy Plus",
+    "name": "PurpleGalaxy",
     "description": "A light purple sky theme",
     "authors": [
         {
@@ -137,12 +137,6 @@
         "CHANNEL_ICON": [
             "#D793B5",
             "#BFBFBF"
-        ],
-        "BG_BACKDROP": [
-            "#04010173"
-        ],
-        "CHAT_BACKGROUND": [
-            "#04010173"
         ]
     },
     "rawColors": {
@@ -171,19 +165,9 @@
     },
   
       "background": {
-    "url": "https://cdn.discordapp.com/attachments/1086985889286209586/1165888318869876788/ezgif.com-gif-maker6.gif?ex=65487d1c&is=6536081c&hm=4a629c5ce244e1362b94f7ce1b958d093b4aae4337044111c00feb774fb91355&"
+    "blur": 0.6,
+    "url": "https://cdn.discordapp.com/attachments/1086985889286209586/1165888318869876788/ezgif.com-gif-maker6.gif?ex=65487d1c&is=6536081c&hm=4a629c5ce244e1362b94f7ce1b958d093b4aae4337044111c00feb774fb91355&",
+    "alpha": 0.8
     },
-   "plus":{
-   "version":"0",
-   "iconpack":"rosiecord-plumpy",
-   "icons":{
-            "ic_new_pins":["#e64553"],
-            "StatusStreaming": ["#7e64fb"],
-          "StatusMobileOnline": ["#09bd63"],
-          "StatusIdle": ["#ffd401"],
-          "StatusDND": ["#ff611a"],
-          "StatusOffline": ["#015bd5"],
-          "StatusOnline": ["#09bd63"]}
-},
     "color": "#4d4463"
 }
